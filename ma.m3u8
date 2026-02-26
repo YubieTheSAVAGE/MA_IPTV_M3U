@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1,2M Tv
-https://vsd115.okcdn.ru/hls/10438529387128.m3u8/sig/5aI2Vj7WNjQ/expires/1772164219770/srcIp/105.69.23.176/urls/185.226.55.80/clientType/0/srcAg/CHROME_MAC/mid/11744473521784/10438529387128_fullhd/index.m3u8
-
+https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
 #EXTINF:-1,Al Aoula
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
