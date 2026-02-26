@@ -1,7 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1,2M Tv
-https://stream-lb.livemediama.com/2m/hls/master.m3u8
+https://stream-lb.livemediama.com/2m/hls/stream_0/playlist.m3u8
 
 #EXTINF:-1,Al Aoula
-https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
+https://stream-lb.livemediama.com/alaoula/hls/stream_0/playlist.m3u8
+
+#EXTINF:-1,Medi1 Tv
+https://stream-lb.livemediama.com/medi1tv-maghreb/hls/stream_0/playlist.m3u8
+
+#EXTINF:-1,Arryadia HD
+https://stream-lb.livemediama.com/arryadia/hls/stream_0/playlist.m3u8
+
